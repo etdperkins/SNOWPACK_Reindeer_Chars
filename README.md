@@ -8,3 +8,6 @@ Scripts for preparing CESM2 data for SNOWPACK and analyzing outputs for trends i
 * Script4ProfileConversion.ipynb - extracts relevant raw data from .pro file (ascii) and saves it as a csv file for easier manipulation
 * Script4SnowDiagnostics.ipynb - computes diagnostics for problematic snow characteristics from data in csv file resulting from Script4ProfileConversion.ipynb and saves these diagnostics in a NetCDF file
 * Script4BreakpointAnalysis.ipynb - analyses trends in the timeseries of problematic snow characteristics from data in NetCDF file resulting from Script4SnowDiagnostics.ipynb including automatic breakpoint detection
+
+
+Scripts written by Emma Perkins
