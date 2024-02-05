@@ -10,4 +10,6 @@ Scripts for preparing CESM2 data for SNOWPACK and analyzing outputs for trends i
 * Script4BreakpointAnalysis.ipynb - analyses trends in the timeseries of problematic snow characteristics from data in NetCDF file resulting from Script4SnowDiagnostics.ipynb including automatic breakpoint detection
 
 
+DOI: https://zenodo.org/records/10620763
+
 Scripts written by Emma Perkins
