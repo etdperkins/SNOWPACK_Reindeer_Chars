@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use these notebooks, please cite them as below."
+authors:
+- family-names: Perkins
+  given-names: Emma
+orcid: https://orcid.org/0000-0001-5189-6589
+title:etdperkins/SNOWPACK_Reindeer_Chars: v1.0
+version: PublishedNotebooks
+date-released: 2024-02-05
